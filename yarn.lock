@@ -622,7 +622,7 @@ __metadata:
     "@xstd/async-function": "npm:^1.3.0"
     "@xstd/map-function": "npm:^1.3.0"
     "@xstd/observable-async-function": "npm:^0.1.0"
-    fabrique: "npm:2.0.26"
+    fabrique: "npm:2.0.27"
     prettier: "npm:^3.9.10"
     prettier-plugin-organize-imports: "npm:^4.3.0"
     typescript: "npm:^7.0.2"
@@ -1145,9 +1145,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fabrique@npm:2.0.26":
-  version: 2.0.26
-  resolution: "fabrique@npm:2.0.26"
+"fabrique@npm:2.0.27":
+  version: 2.0.27
+  resolution: "fabrique@npm:2.0.27"
   dependencies:
     "@inquirer/prompts": "npm:^8.7.4"
     chalk: "npm:^6.0.1"
@@ -1155,7 +1155,7 @@ __metadata:
     zod: "npm:^4.6.7"
   bin:
     fabrique: src/cli/cli.js
-  checksum: 10c0/31a76d79b496fed98513542dd70f99cf306de65de1fdc155753aa69364ad3ba9d5a7404c54b858207f6701bcfee0c3562ff290f54fa56bd91d6fe8a692338688
+  checksum: 10c0/1f9e7d721705a8de3bb8310e9f7a0a1c58ca5121bd27576a6923156d1743cc38e9fa3825a8f09a93d634b37f49d51d7b62f5c2c1cdedaa0f8b713056bbcc0757
   languageName: node
   linkType: hard
 
